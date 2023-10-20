@@ -1,3 +1,7 @@
 # CameronC61.github.io
 My personal website
-## Education
+Education
+
+Work History
+
+Coursework
